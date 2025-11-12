@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+plotly
+scikit-learn
+# add any other packages your app uses
