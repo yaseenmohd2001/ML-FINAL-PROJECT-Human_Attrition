@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 # ============================================
 # 🎨 PAGE CONFIG & BACKGROUND
 # ============================================
-st.set_page_config(page_title="Employee Churn Prediction", layout="wide")
+st.set_page_config(page_title="Employee Attrition Prediction", layout="wide")
 
 def add_bg_from_local(image_file):
     with open(image_file, "rb") as f:
@@ -122,7 +122,7 @@ def load_models():
 # 📄 HOME PAGE
 # ============================================
 def home_page():
-    st.title("🏢 Employee Churn Prediction System")
+    st.title("🏢 Employee Attrition Prediction System")
     st.image("img.jpg", use_container_width=True)
     st.markdown("---")
 
