@@ -116,7 +116,7 @@ streamlit run app3.py
 
 ## Author
 
-**Yaseen Mohd**
+**Thaha Muhammed Yaseen**
 
 GitHub: https://github.com/yaseenmohd2001
 
